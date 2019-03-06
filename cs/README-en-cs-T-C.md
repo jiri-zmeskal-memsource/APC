@@ -1,2 +1,2 @@
 # APC
-APC Tento readme Tento soubor je upravovat. Očekávám, že nový APC a teď jiný. A ještě jeden. A další. A další a a nebo
+APC Tento readme Tento soubor je upravovat. Očekávám, že nový APC a teď jiný. A ještě jeden. A další. A další a i jinak
